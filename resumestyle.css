@@ -6,9 +6,6 @@ body {
 
 }
 
-
-
-
 .container {
     display: grid;
     grid-template-columns: 1.3fr 0.9fr 0.8fr 0.8fr 1.2fr;
@@ -85,19 +82,6 @@ body {
       padding: 30px 30px 30px;
        
     }
-  
-  
-  
-  
-  html, body {
-    height: 100%;
-    margin: 0;
-  }
-    
-  
-  .container * {
-    
-    position: relative;
-  }
+
   
   
